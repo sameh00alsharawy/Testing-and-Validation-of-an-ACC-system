@@ -1,4 +1,4 @@
-# Testing and Validation of Automated Road Vehicles
+# Testing and Validation of a standard ACC system
 
 ## Project Overview
 This project focuses on the testing and validation of an automated road vehicle, specifically evaluating a standard Adaptive Cruise Control (ACC) system. The primary goal is to evaluate the safety, comfort, and efficiency of the ACC controller under stochastic (randomized) driving conditions. 
